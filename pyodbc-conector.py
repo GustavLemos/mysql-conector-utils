@@ -28,5 +28,3 @@ print(df)
 
 #Save dataframe in csv
 df.to_csv('file.csv')
-Footer
-© 2022 GitHub, Inc.
